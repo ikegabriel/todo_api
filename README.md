@@ -1,5 +1,5 @@
 # Todo_api
-This is a simple todo api built Django and the Django Rest Framework
+This is a simple todo api built with Django and the Django Rest Framework
 
 # Documentation
 The documentation for this api can be found here ->
