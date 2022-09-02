@@ -4,6 +4,8 @@ This is a simple todo api built with Django and the Django Rest Framework
 # Documentation
 The documentation for this api can be found here ->
 
+# Database ERD
+
 # Setup
 To set up this project on your local machine,<br>
 
