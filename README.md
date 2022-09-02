@@ -5,6 +5,7 @@ This is a simple todo api built with Django and the Django Rest Framework
 The documentation for this api can be found here ->
 
 # Database ERD
+https://drawsql.app/teams/gabriels-team-1/diagrams/todo-api
 
 # Setup
 To set up this project on your local machine,<br>
