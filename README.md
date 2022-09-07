@@ -1,6 +1,11 @@
 # Todo_api
 This is a simple todo api built with Django and the Django Rest Framework
 
+# Technology
+ <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'><br>
+ <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'><br>
+ <img src='https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white'>
+
 # Documentation
 The documentation for this api can be found here ->
 
